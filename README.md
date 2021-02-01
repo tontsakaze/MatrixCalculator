@@ -16,7 +16,9 @@ MatrixCalculator.exe -tests
 </pre>
 
 - - -
+
 ![alt text](https://github.com/tontsakaze/MatrixCalculator/blob/master/doc/MatrixCalculator_UML.png?raw=true)
+The last given UML diagram
 - - -
 ![alt text](https://github.com/tontsakaze/MatrixCalculator/blob/master/doc/matcalc01.jpg?raw=true)
 - - -
